@@ -1,0 +1,1003 @@
+make,model,year,price,engine,cylinders,fuel,mileage,transmission,body,doors,drivetrain
+Jeep,Wagoneer,2024,74600.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,50170.0,OHV,6.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+GMC,Yukon XL,2024,96410.0,"6.2L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,0.0,Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,81663.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Nissan,Murano,2024,46000.0,24V MPFI DOHC,6.0,Gasoline,3838.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,63862.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Ford,F-350,2024,89978.0,32V DDI OHV Turbo Diesel,8.0,Diesel,15.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,42230.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,42773.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,20.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,37743.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,60904.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,532.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,Santa Cruz,2024,43419.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,44022.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Blazer EV,2024,51695.0,c,4.0,Electric,4.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,38574.0,16V PDI DOHC Turbo,4.0,Gasoline,12.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Nissan,Murano,2024,48000.0,24V MPFI DOHC,6.0,Gasoline,87.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Ford,Explorer,2024,53190.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,32751.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,25.0,7-Speed DSG Automatic with Tiptronic,SUV,4.0,All-wheel Drive
+Volkswagen,Jetta,2024,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+RAM,3500,2024,65221.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,344.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Hornet,2024,39491.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson,2024,30305.0,16V PDI DOHC,4.0,Gasoline,11.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+GMC,Terrain,2024,44120.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,33160.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Ford,Explorer,2024,40940.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,10-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Jeep,Compass,2024,34084.0,DOHC,4.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Chrysler,Pacifica,2024,48705.0,24V MPFI DOHC,6.0,Gasoline,8.0,9-Speed Automatic,Passenger Van,4.0,All-wheel Drive
+Chevrolet,Blazer EV,2024,52190.0,c,4.0,Electric,6.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,2500,2024,58855.0,16V MPFI OHV,8.0,Gasoline,0.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Nissan,Murano,2024,39867.0,24V MPFI DOHC,6.0,Gasoline,2.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Ford,Transit-250,2024,53595.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,10.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Jeep,Grand Cherokee 4xe,2023,59547.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,185.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Kia,EV6,2024,49820.0,c,4.0,Electric,13.0,Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Jetta,2024,27175.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+Ford,Mustang Mach-E,2024,47790.0,c,4.0,Electric,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,58610.0,16V GDI OHV,8.0,Gasoline,0.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Kia,Seltos,2024,29640.0,16V MPFI DOHC,4.0,Gasoline,16.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Chevrolet,Blazer,2024,43727.0,24V GDI DOHC,6.0,Gasoline,9.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+GMC,Terrain,2024,35870.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,64670.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Wrangler,2024,46973.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,10.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,54905.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,1.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,50915.0,16V GDI DOHC Hybrid,4.0,Hybrid,7.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Acura,MDX,2024,65595.0,24V GDI SOHC,6.0,Gasoline,16.0,10-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,21.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Subaru,Outback,2024,44354.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Volkswagen,Atlas Cross Sport,2024,51721.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,11.0,8-speed automatic,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,44195.0,c,4.0,Electric,14.0,1-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Audi,Q8 e-tron,2024,86670.0,c,4.0,Electric,5.0,Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Jetta,2024,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,6.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+Hyundai,Sonata Hybrid,2024,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,14.0,6-Speed Automatic,Sedan,4.0,Front-wheel Drive
+Kia,EV9,2024,52388.0,c Motor,4.0,Electric,1.0,1-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Dodge,Durango,2024,58709.0,16V MPFI OHV,8.0,Gasoline,15.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,42855.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,34990.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage Hybrid,2024,34835.0,"4 gasoline direct injection, DOHC, CVVT variable valve co",4.0,Hybrid,9.0,Automatic,SUV,4.0,All-wheel Drive
+GMC,Terrain,2024,35870.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,Expedition,2024,69955.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,39581.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Atlas,2024,49166.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,55365.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Jeep,Grand Cherokee L,2024,51360.0,24V MPFI DOHC,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Hyundai,Tucson,2024,40474.0,"ream 2.5L I-4 port/direct injection, DOHC, CVVT variable",4.0,Gasoline,5.0,Automatic,SUV,4.0,All-wheel Drive
+BMW,X7,2024,89450.0,24V GDI DOHC Turbo,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Toyota,Tundra Hybrid,2024,62341.0,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6.0,Hybrid,4357.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,42015.0,c,4.0,Electric,7.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Nissan,Kicks,2024,24500.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,10.0,CVT,SUV,4.0,Front-wheel Drive
+Buick,Envista,2024,27075.0,12V GDI DOHC Turbo,3.0,Gasoline,6.0,6-Speed Automatic,SUV,4.0,Front-wheel Drive
+Acura,MDX,2024,51645.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,SUV,4.0,Front-wheel Drive
+Nissan,Rogue,2024,35975.0,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3.0,Gasoline,4.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,63057.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Rogue,2024,36405.0,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3.0,Gasoline,5.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer L,2024,86137.0,"ne 3L I-6 gasoline direct injection, DOHC, variable valve",6.0,Gasoline,5.0,Automatic,SUV,4.0,Four-wheel Drive
+Kia,Sportage,2024,27969.0,"4 port/direct injection, DOHC, CVVT variable valve contro",4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Acura,MDX,2024,51645.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,SUV,4.0,Front-wheel Drive
+RAM,3500,2024,63223.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Durango,2023,47785.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Nissan,Murano,2024,46000.0,24V MPFI DOHC,6.0,Gasoline,5.0,Automatic CVT,SUV,4.0,All-wheel Drive
+GMC,Yukon XL,2024,96410.0,"6.2L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,0.0,Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Rogue,2024,41180.0,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3.0,Gasoline,3.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,44720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49390.0,OHV,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mercedes-Benz,EQE 350+,2024,76535.0,c,4.0,Electric,375.0,1-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Buick,Envista,2024,31805.0,12V GDI DOHC Turbo,3.0,Gasoline,8.0,6-Speed Automatic,SUV,4.0,Front-wheel Drive
+Dodge,Durango,2024,44160.0,24V MPFI DOHC,6.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Hyundai,Sonata,2024,28469.0,16V PDI DOHC,4.0,Gasoline,0.0,8-Speed Automatic,Sedan,4.0,All-wheel Drive
+RAM,3500,2024,58930.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+GMC,Terrain,2024,35236.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,60555.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Ford,Ranger,2024,38740.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Audi,SQ5,2024,0.0,oled Turbo Premium Unleaded V-6 3.0 L/183,6.0,Gasoline,14.0,Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,66334.0,"High Output 6.7L I-6 diesel direct injection, VVT interc",6.0,Diesel,6.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Audi,Q5 e,2024,73020.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,7-Speed Automatic S tronic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,89555.0,24V DDI OHV Turbo Diesel,6.0,Diesel,12.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,3500,2024,65315.0,24V DDI OHV Turbo Diesel,6.0,Diesel,9.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58599.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,Mustang Mach-E,2023,50473.0,c,4.0,Electric,12.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,47234.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,44161.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,49496.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,43475.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Charger,2023,36083.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Chevrolet,Silverado 1500,2024,54559.0,16V GDI OHV,8.0,Gasoline,148.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,60061.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,58.0,9-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+Jeep,Compass,2024,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,1.0,Automatic,SUV,4.0,Four-wheel Drive
+Honda,CR-V Hybrid,2024,42005.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 6,2024,45005.0,c,4.0,Electric,12.0,Automatic,Sedan,4.0,Rear-wheel Drive
+Hyundai,Tucson Hybrid,2024,35864.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2023,30000.0,DOHC,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Kia,Sportage,2024,34000.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,29342.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,6.0,Automatic,SUV,4.0,Four-wheel Drive
+Ford,Transit-150,2024,55645.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,59.0,10-Speed Automatic,Cargo Van,3.0,All-wheel Drive
+Audi,Q8 e-tron,2024,83630.0,c,4.0,Electric,5.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wrangler,2024,59456.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,15.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,39714.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,14.0,Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,49628.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,33089.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,25.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,EQE 350+,2024,79765.0,c,4.0,Electric,9.0,1-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Dodge,Charger,2023,65075.0,16V MPFI OHV,8.0,Gasoline,18.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Jeep,Compass,2024,38980.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Santa Fe,2024,49905.0,Turbo DOHC,4.0,Gasoline,1.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,58235.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,27998.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Chevrolet,Equinox,2024,25515.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,8.0,6-Speed Automatic Electronic with Overdrive,SUV,4.0,Front-wheel Drive
+Subaru,Solterra,2024,39934.0,c,4.0,Gasoline,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wrangler 4xe,2024,66960.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,53395.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,61775.0,c,4.0,Electric,12.0,Automatic,SUV,4.0,All-wheel Drive
+RAM,ProMaster 2500,2024,53272.0,24V MPFI DOHC,6.0,Gasoline,1.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Lincoln,Corsair,2024,51361.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+GMC,Savana 2500,2024,44595.0,"6 gasoline direct injection, variable valve control, regu",6.0,Gasoline,3.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Chrysler,Pacifica Hybrid,2024,60600.0,24V MPFI DOHC Hybrid,6.0,Hybrid,10.0,Automatic CVT,Passenger Van,4.0,Front-wheel Drive
+Dodge,Hornet,2024,38575.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Acura,ZDX,2024,69850.0,c,0.0,Electric,0.0,Automatic,SUV,4.0,All-wheel Drive
+Nissan,Altima,2024,31225.0,16V GDI DOHC,4.0,Gasoline,6.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+Hyundai,Sonata Hybrid,2024,32520.0,16V GDI DOHC Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,Sedan,4.0,Front-wheel Drive
+Dodge,Charger,2023,35821.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Mazda,CX-90 PHEV,2024,60200.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,33.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,36532.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,14.0,9-Speed 948TE Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,61506.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,SUV,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,59625.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,2.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,109545.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,35480.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,0.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,31200.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,54835.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,11.0,8-Speed A/T,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,52115.0,24V MPFI DOHC,6.0,Gasoline,13.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,32011.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,11.0,8-speed automatic,SUV,4.0,Front-wheel Drive
+RAM,ProMaster 3500,2024,53099.0,24V MPFI DOHC,6.0,Gasoline,30.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Taos,2024,30383.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Cadillac,XT5,2024,46890.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,SUV,4.0,Front-wheel Drive
+Jeep,Grand Cherokee,2024,37729.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,53535.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,4.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Charger,2023,37490.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Dodge,Hornet,2024,44600.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2024,45038.0,24V MPFI DOHC,6.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Acura,MDX,2024,56155.0,24V GDI SOHC,6.0,Gasoline,3.0,10-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wrangler,2024,60972.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Gladiator,2023,53796.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Hornet,2024,41497.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,11.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Taos,2024,25311.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Dodge,Charger,2023,35913.0,24V MPFI DOHC,6.0,Gasoline,15.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+INFINITI,QX50,2024,48350.0,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4.0,Gasoline,3.0,Variable,SUV,4.0,Front-wheel Drive
+Nissan,Versa,2024,21000.0,16V MPFI DOHC,4.0,Gasoline,9.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+GMC,Savana 2500,2024,44620.0,"6 gasoline direct injection, variable valve control, regu",6.0,Gasoline,12.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Mercedes-Benz,AMG GLE 53,2024,90995.0,24V GDI DOHC Turbo,6.0,Gasoline,10.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,56079.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,F-350,2024,52263.0,"8 variable valve control, regular unleaded, engine with 4",8.0,Gasoline,10.0,10-Speed Automatic,Pickup Truck,2.0,Four-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,29.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,42991.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,14.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,54910.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Audi,A5 Sportback,2024,56105.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,7-Speed Automatic with Auto-Shift,Hatchback,4.0,All-wheel Drive
+Lincoln,Nautilus,2024,64370.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,44790.0,24V MPFI DOHC,6.0,Gasoline,32.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Trailblazer,2024,32580.0,"1.3L I-3 gasoline direct injection, DOHC, variable valve",3.0,Gasoline,0.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+BMW,i4 Gran Coupe,2024,69685.0,c,4.0,Electric,5.0,1-Speed Automatic,Hatchback,4.0,Rear-wheel Drive
+Hyundai,Santa Cruz,2024,34330.0,16V PDI DOHC,4.0,Gasoline,11.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Dodge,Hornet,2024,37430.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,9.0,9-Speed A/T,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,42015.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,32925.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Jeep,Wrangler 4xe,2024,57870.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,28265.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,30618.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Ford,Escape,2024,31985.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,2.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Ford,Bronco Sport,2024,35210.0,oBoost,3.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Santa Fe,2024,42455.0,Turbo DOHC,4.0,Gasoline,1.0,Automatic,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 6,2023,51820.0,c,4.0,Electric,12.0,1-Speed Automatic,Sedan,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,49795.0,c,4.0,Electric,4.0,1-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Jeep,Compass,2024,31721.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Durango,2024,44852.0,24V MPFI DOHC,6.0,Gasoline,13.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,32485.0,">
+
+    
+    <dt>VIN</dt>
+     ZACNDFAN0R3A12168",4.0,Gasoline,48.0,9 Spd Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,39370.0,24V VVT,6.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,45844.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,1.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer L,2024,78543.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,16.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Elantra HEV,2024,27080.0,".6L I-4 gasoline direct injection, DOHC, D-CVVT variable",4.0,Hybrid,13.0,Automatic,Sedan,4.0,Front-wheel Drive
+RAM,3500,2024,83940.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Volkswagen,Atlas Cross Sport,2024,48541.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,81036.0,"High Output 6.7L I-6 diesel direct injection, VVT interc",6.0,Diesel,0.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,67562.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,13.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58399.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,SUV,4.0,All-wheel Drive
+Lexus,RX 500h,2024,73270.0,16V PDI DOHC Turbo Hybrid,4.0,Hybrid,21.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,89040.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,5.0,Aisin 6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,52905.0,c,4.0,Electric,12.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Mustang Mach-E,2024,46920.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,65175.0,24V DDI DOHC Turbo Diesel,6.0,Diesel,0.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Nissan,Versa,2024,20389.0,16V MPFI DOHC,4.0,Gasoline,11.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,50599.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,Mustang Mach-E,2023,46935.0,c,4.0,Electric,11.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Fe,2024,38100.0,Turbo DOHC,4.0,Gasoline,1.0,Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,31190.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Jeep,Wrangler 4xe,2024,50755.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,42201.0,c,4.0,Electric,8.0,Automatic,SUV,4.0,Rear-wheel Drive
+Honda,Prologue,2024,55800.0,c,4.0,Gasoline,8.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35404.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35656.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,9.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,32660.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 6,2024,50850.0,;,4.0,Electric,10.0,Automatic,Sedan,4.0,All-wheel Drive
+Jeep,Wrangler 4xe,2024,61860.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,25895.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Nissan,Kicks,2024,26600.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SUV,4.0,Front-wheel Drive
+BMW,i5,2024,91825.0,c,4.0,Electric,7.0,1-Speed Automatic,Sedan,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,37325.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,52642.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,40235.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,42064.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,39832.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,65928.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,41036.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Taos,2024,33331.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,51835.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,33.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+GMC,Terrain,2024,44120.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,42466.0,c,4.0,Electric,16.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,54209.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,86505.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,49.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Hornet,2024,48595.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4.0,All-wheel Drive
+Mazda,MX-5 Miata RF,2023,38040.0,16V GDI DOHC,4.0,Gasoline,3.0,6-Speed Automatic,Convertible,2.0,Rear-wheel Drive
+Acura,MDX,2024,52950.0,24V GDI SOHC,6.0,Gasoline,3.0,10-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,21.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,52567.0,OHV,6.0,Gasoline,246.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,33.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,87488.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,22.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,43904.0,c,4.0,Electric,6.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Blazer EV,2024,55090.0,c,4.0,Electric,9.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,110395.0,c,4.0,Electric,5.0,Automatic,Sedan,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,44737.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,ID.4,2024,41693.0,"dd>
+
+    
+    <dt>VIN</dt>
+     1V2BMPE85RC003636",4.0,Electric,0.0,62 kWh battery,SUV,4.0,Rear-wheel Drive
+Hyundai,Santa Cruz,2024,41995.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Honda,CR-V,2024,38855.0,"gasoline direct injection, DOHC, i-VTEC variable valve co",4.0,Hybrid,6.0,Automatic,SUV,4.0,Front-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,58909.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,34.0,Automatic,SUV,4.0,Four-wheel Drive
+RAM,2500,2024,65350.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,49411.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,6.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wagoneer,2024,72908.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2023,37105.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,50590.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 2500,2024,70190.0,"6.6L V-8 diesel direct injection, intercooled turbo, die",8.0,Diesel,5.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chevrolet,Equinox,2024,25515.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,6-Speed Automatic Electronic with Overdrive,SUV,4.0,Front-wheel Drive
+Jeep,Wrangler,2024,59542.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,SUV,4.0,Four-wheel Drive
+RAM,ProMaster 2500,2024,53445.0,24V MPFI DOHC,6.0,Gasoline,6.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+RAM,2500,2024,79675.0,24V DDI OHV Turbo Diesel,6.0,Diesel,17.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+GMC,Sierra 3500,2024,87075.0,der,8.0,Diesel (B20 capable),9.0,10-Speed Shiftable Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Escape,2024,34799.0,12V PDI DOHC Turbo,3.0,Gasoline,3.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,2500,2024,67125.0,24V DDI OHV Turbo Diesel,6.0,Diesel,5.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,46721.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Kia,EV6,2024,43348.0,c,4.0,Electric,16.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,56119.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,28193.0,16V GDI DOHC Turbo,4.0,Gasoline,4.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,58949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,26.0,Automatic,SUV,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,9.0,Automatic,SUV,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,9.0,Automatic,SUV,4.0,All-wheel Drive
+Subaru,Legacy,2024,31042.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,Sedan,4.0,All-wheel Drive
+Dodge,Hornet,2024,34000.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,4440.0,9-speed automatic,SUV,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54449.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,10.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,F-350,2024,77885.0,16V MPFI OHV,8.0,Gasoline,105.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Compass,2024,31535.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,50349.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,37.0,Automatic,SUV,4.0,All-wheel Drive
+Acura,MDX,2024,56345.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,SUV,4.0,Front-wheel Drive
+BMW,i4 Gran Coupe,2024,73670.0,c,4.0,Electric,5.0,1-Speed Automatic,Hatchback,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,50675.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,64516.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,14.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Hornet,2024,36480.0,oled Turbo Premium Unleaded I-4 2.0 L/122,4.0,Gasoline,23.0,Automatic,SUV,4.0,All-wheel Drive
+Audi,Q8 e-tron,2024,89780.0,c,4.0,Electric,5.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,33.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+BMW,i7,2024,110445.0,c,4.0,Electric,5.0,1-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Volkswagen,Jetta,2024,26104.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,9.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+Dodge,Hornet,2024,42790.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,30.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,35.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+BMW,M235 Gran Coupe,2024,54545.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Sedan,4.0,All-wheel Drive
+RAM,3500,2024,65774.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Nissan,Rogue,2024,34305.0,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3.0,Gasoline,4.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,44621.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,39763.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,67237.0,"High Output 6.7L I-6 diesel direct injection, VVT interc",6.0,Diesel,6.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Honda,CR-V Hybrid,2024,36900.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Ford,Expedition,2024,90350.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,89.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Ford,Expedition,2024,83910.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,65.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Audi,Q8 e-tron,2024,84465.0,c,4.0,Electric,5.0,Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,49944.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Kia,Sportage,2024,32433.0,"4 port/direct injection, DOHC, CVVT variable valve contro",4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,33095.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Kia,Sportage,2024,39990.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Land Rover,Range Rover Evoque,2024,62145.0,16V GDI DOHC Turbo,4.0,Gasoline,19.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Honda,Odyssey,2024,48364.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,Passenger Van,4.0,Front-wheel Drive
+RAM,2500,2024,83374.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,5.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Honda,Prologue,2024,56550.0,c,4.0,Gasoline,1.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Equinox,2024,31222.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,2.0,6-Speed Automatic Electronic with Overdrive,SUV,4.0,Front-wheel Drive
+GMC,Sierra 2500,2024,85845.0,32V DDI OHV Turbo Diesel,8.0,Diesel,2.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Kia,Sportage,2024,30034.0,"4 port/direct injection, DOHC, CVVT variable valve contro",4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Dodge,Durango,2023,44170.0,24V MPFI DOHC,6.0,Gasoline,35.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Audi,Q5 e,2024,69995.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,7-Speed Automatic S tronic,SUV,4.0,All-wheel Drive
+Volkswagen,Jetta,2024,27554.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+Nissan,Titan,2024,45716.0,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8.0,Gasoline,10.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Audi,RS e-tron GT,2024,153690.0,c ZEV,4.0,Electric,10.0,1-Speed Automatic,Sedan,4.0,All-wheel Drive
+Ford,Edge,2024,42715.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,36970.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Volkswagen,Jetta,2024,26329.0,16V GDI DOHC Turbo,4.0,Gasoline,25.0,8-Speed Automatic,Sedan,4.0,Front-wheel Drive
+Chevrolet,Equinox,2024,30101.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,54899.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Kia,Sportage,2024,32198.0,"4 port/direct injection, DOHC, CVVT variable valve contro",4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Nissan,Titan,2024,54585.0,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8.0,Gasoline,10.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Compass,2024,35999.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,36882.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+INFINITI,QX50,2024,45055.0,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4.0,Gasoline,25.0,Variable,SUV,4.0,Front-wheel Drive
+RAM,3500,2024,69697.0,24V DDI OHV Turbo Diesel,6.0,Diesel,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Mustang Mach-E,2024,49285.0,c,4.0,Electric,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47785.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wrangler 4xe,2024,51083.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,8-Speed A/T,SUV,4.0,Four-wheel Drive
+Kia,EV6,2024,41528.0,c,4.0,Electric,14.0,Automatic,SUV,4.0,All-wheel Drive
+Nissan,Kicks,2024,27400.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SUV,4.0,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,52445.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,34600.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47165.0,16V MPFI OHV,8.0,Gasoline,39.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,34084.0,DOHC,4.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,50184.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,45842.0,c,4.0,Electric,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,40380.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Land Rover,Discovery Sport,2024,55353.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,Sprinter 3500,2024,72357.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,9.0,9-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+Hyundai,Tucson Hybrid,2024,34492.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,36000.0,16V PDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Jeep,Compass,2024,35999.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,53160.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,59116.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wrangler,2024,67510.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,SUV,4.0,Four-wheel Drive
+Honda,Odyssey,2024,48187.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,Passenger Van,4.0,Front-wheel Drive
+Volkswagen,Jetta,2024,25923.0,16V GDI DOHC Turbo,4.0,Gasoline,25.0,8-Speed Automatic,Sedan,4.0,Front-wheel Drive
+Jeep,Grand Cherokee,2024,50702.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volvo,XC90 Recharge Plug-In Hybrid,2024,75595.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,6.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wrangler 4xe,2024,51845.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Cadillac,XT5,2024,60915.0,24V GDI DOHC,6.0,Gasoline,31.0,9-Speed Automatic,SUV,4.0,Front-wheel Drive
+RAM,3500,2024,71167.0,24V DDI OHV Turbo Diesel,6.0,Diesel,9.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,Santa Cruz,2024,41975.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Jeep,Compass,2024,38481.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Sonata Hybrid,2024,32520.0,16V GDI DOHC Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Sedan,4.0,Front-wheel Drive
+Kia,Sorento,2023,48861.0,"4 port/direct injection, DOHC, variable valve control, in",4.0,Gasoline,16.0,Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Equinox,2024,31537.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,47175.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,51585.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer L,2023,86097.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,9711.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mercedes-Benz,EQS 450,2024,114850.0,c,4.0,Electric,8.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Nissan,Frontier,2024,37946.0,24V GDI DOHC,6.0,Gasoline,9.0,9-Speed Automatic,Pickup Truck,4.0,Rear-wheel Drive
+Chevrolet,Equinox,2024,31301.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2023,63010.0,16V MPFI OHV,8.0,Gasoline,95.0,8-Speed Automatic,Pickup Truck,2.0,Four-wheel Drive
+Nissan,Titan,2024,50030.0,Unleaded V-8 5.6 L/339,8.0,Gasoline,1.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+GMC,Savana 2500,2024,42990.0,12V GDI OHV,6.0,Gasoline,0.0,8-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+Chevrolet,Equinox,2024,32635.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,6-Speed Automatic,SUV,4.0,Front-wheel Drive
+Nissan,Titan,2023,46672.0,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8.0,Gasoline,1.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Honda,HR-V,2024,27450.0,"gasoline direct injection, DOHC, i-VTEC variable valve co",4.0,Gasoline,10.0,Automatic,SUV,4.0,All-wheel Drive
+Kia,Niro,2024,34310.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,6-SPEED AUTOMATIC,SUV,4.0,Front-wheel Drive
+Buick,Encore GX,2024,36190.0,12V GDI DOHC Turbo,3.0,Gasoline,7.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,EV9,2024,52388.0,c Motor,4.0,Electric,1.0,1-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Mazda,CX-90 PHEV,2024,57849.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,Edge,2024,44615.0,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,9.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,34985.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Jeep,Compass,2024,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,10.0,Automatic,SUV,4.0,Four-wheel Drive
+RAM,ProMaster 2500,2024,53890.0,24V MPFI DOHC,6.0,Gasoline,3.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Hyundai,IONIQ 6,2024,48510.0,c,4.0,Electric,12.0,Automatic,Sedan,4.0,All-wheel Drive
+Kia,Sportage,2024,31190.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Genesis,Electrified G80,2023,81525.0,c,4.0,Electric,153.0,1-Speed Automatic,Sedan,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,52515.0,c,4.0,Electric,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35364.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,33.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,GLE 450,2024,85630.0,24V GDI DOHC Turbo,6.0,Gasoline,7.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,47530.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58399.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,75888.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,49632.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,55439.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Taos,2024,30618.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Dodge,Charger,2023,35821.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Dodge,Charger,2023,36083.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Mercedes-Benz,GLS 450,2024,98180.0,24V GDI DOHC Turbo,6.0,Gasoline,5.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,44604.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Acura,MDX,2024,57650.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,32269.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,42466.0,c,4.0,Electric,7.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,45051.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Land Rover,Discovery Sport,2024,57508.0,16V GDI DOHC Turbo,4.0,Gasoline,19.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Transit-250,2024,51803.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,1.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Mercedes-Benz,EQS 450,2024,114160.0,c,4.0,Electric,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Acura,MDX,2024,56800.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,SUV,4.0,Front-wheel Drive
+Jeep,Grand Cherokee L,2024,52631.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,38500.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Trax,2024,24680.0,12V GDI DOHC Turbo,3.0,Gasoline,5.0,6-Speed Automatic,SUV,4.0,Front-wheel Drive
+BMW,i5,2024,96895.0,c,4.0,Electric,37.0,1-Speed Automatic,Sedan,4.0,All-wheel Drive
+Jeep,Wrangler 4xe,2024,54490.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,2.0,Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,80095.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,20.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Honda,Odyssey,2024,44350.0,"6 gasoline direct injection, i-VTEC variable valve contro",6.0,Gasoline,0.0,Automatic,Passenger Van,4.0,Front-wheel Drive
+RAM,ProMaster 3500,2023,66375.0,"6 DOHC, variable valve control, regular unleaded, engine",6.0,Gasoline,17.0,Automatic,Cargo Van,3.0,Front-wheel Drive
+BMW,i5,2024,93335.0,c,4.0,Electric,3.0,1-Speed Automatic,Sedan,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,57635.0,"5.3L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,5.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chrysler,Pacifica,2023,45300.0,"6 DOHC, VVT variable valve control, engine with cylinder",6.0,Gasoline,25.0,9-Speed 948TE Automatic,Minivan,4.0,Front-wheel Drive
+Jeep,Compass,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,34637.0,16V GDI DOHC Turbo,4.0,Gasoline,54.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,50184.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wagoneer L,2024,87190.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,55399.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,2.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,41391.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Bronco Sport,2024,30020.0,oBoost,3.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,19.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+BMW,i5,2024,74695.0,c,4.0,Electric,7.0,1-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Jeep,Grand Cherokee L,2024,66360.0,"ar 3.6L V-6 DOHC, VVT variable valve control, regular unl",6.0,Gasoline,27.0,Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Kicks,2024,26500.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SUV,4.0,Front-wheel Drive
+Dodge,Durango,2023,53995.0,16V MPFI OHV,8.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Land Rover,Defender,2024,77645.0,24V GDI DOHC Turbo,6.0,Gasoline,9.0,8-Speed Automatic,SUV,2.0,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,58648.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,8-Speed A/T,SUV,4.0,Four-wheel Drive
+Chrysler,Pacifica,2024,46450.0,24V MPFI DOHC,6.0,Gasoline,42.0,9-Speed Automatic,Passenger Van,4.0,All-wheel Drive
+Ford,Edge,2024,41195.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Gladiator,2024,46791.0,24V MPFI DOHC,6.0,Gasoline,12.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+GMC,Yukon XL,2024,76648.0,"5.3L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,3.0,Automatic,SUV,4.0,Rear-wheel Drive
+Audi,SQ8 e-tron,2024,106215.0,c,4.0,Electric,12.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47165.0,16V MPFI OHV,8.0,Gasoline,31.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Audi,Q5 e,2024,78695.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,7-Speed Automatic S tronic,SUV,4.0,All-wheel Drive
+BMW,X7,2024,115445.0,32V GDI DOHC Twin Turbo,8.0,Gasoline,447.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,34182.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Kia,Sorento Hybrid,2024,39390.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Hybrid,10.0,Automatic,SUV,4.0,Front-wheel Drive
+Dodge,Hornet,2024,38546.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,73.0,9-Speed 948TE Automatic,SUV,4.0,All-wheel Drive
+Kia,Seltos,2024,28630.0,16V MPFI DOHC,4.0,Gasoline,15.0,Automatic CVT,SUV,4.0,All-wheel Drive
+RAM,2500,2024,61865.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Compass,2024,26860.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,29826.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,42597.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Niro,2024,37135.0,16V GDI DOHC Hybrid,4.0,Hybrid,399.0,Automatic,SUV,4.0,Front-wheel Drive
+Dodge,Hornet,2024,52180.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,30900.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,61506.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,SUV,4.0,Four-wheel Drive
+Buick,Envision,2023,37135.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Escape,2024,33590.0,der,4.0,Hybrid,0.0,CVT,SUV,4.0,Front-wheel Drive
+Ford,Escape,2024,41765.0,der,4.0,Hybrid,0.0,CVT,SUV,4.0,Front-wheel Drive
+Jeep,Grand Cherokee L,2024,50377.0,OHV,6.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,65416.0,"5.3L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,5.0,automatic w/paddle shifters,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,Santa Cruz,2024,43299.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,47744.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,53455.0,24V VVT,6.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Ford,Transit-250,2024,52853.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Ford,Bronco,2024,69035.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,9.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,32485.0,">
+
+    
+    <dt>VIN</dt>
+     ZACNDFAN0R3A12168",4.0,Gasoline,48.0,9 Spd Automatic,SUV,4.0,All-wheel Drive
+Kia,Niro,2024,31860.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,17.0,A/T,SUV,4.0,Front-wheel Drive
+Subaru,Outback,2024,44354.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Hyundai,Elantra HEV,2024,27080.0,".6L I-4 gasoline direct injection, DOHC, D-CVVT variable",4.0,Hybrid,14.0,Automatic,Sedan,4.0,Front-wheel Drive
+Acura,MDX,2024,56800.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,SUV,4.0,Front-wheel Drive
+Kia,EV6,2024,43348.0,c,4.0,Electric,16.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,Mustang Mach-E,2024,49770.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Mustang Mach-E,2023,46775.0,c,4.0,Electric,9.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,64214.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,3500,2024,82523.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,8.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mercedes-Benz,EQS 450,2024,117985.0,c,4.0,Electric,1.0,Automatic,Sedan,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,49496.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,43135.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Compass,2024,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,8.0,Automatic,SUV,4.0,Four-wheel Drive
+Kia,Sportage,2024,35490.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Honda,Prologue,2024,55800.0,c,4.0,Gasoline,8.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Honda,Prologue,2024,55800.0,c,4.0,Gasoline,8.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,33109.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,39832.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,25.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,51765.0,c,4.0,Electric,7.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Mustang Mach-E,2024,45780.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Charger,2023,37490.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+RAM,2500,2024,46670.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Expedition,2024,88135.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,45289.0,c,4.0,Electric,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Gladiator,2023,54210.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,43585.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,5.0,Automatic,SUV,4.0,Four-wheel Drive
+Chrysler,Pacifica,2024,46163.0,24V MPFI DOHC,6.0,Gasoline,8.0,9-Speed Automatic,Passenger Van,4.0,Front-wheel Drive
+Jeep,Wrangler 4xe,2024,49550.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Jetta,2024,22260.0,16V GDI DOHC Turbo,4.0,Gasoline,28.0,8-Speed Automatic,Sedan,4.0,Front-wheel Drive
+Jeep,Grand Cherokee,2024,47744.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,9.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,54899.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,84860.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,2500,2024,71846.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,5.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Hornet,2024,46490.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,21.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Mustang Mach-E,2024,51785.0,c,4.0,Electric,12.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,49180.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,IONIQ 6,2024,50945.0,c,4.0,Electric,1.0,Automatic,Sedan,4.0,All-wheel Drive
+Volkswagen,Taos,2024,35683.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,7-Speed DSG Automatic with Tiptronic,SUV,4.0,All-wheel Drive
+Ford,Expedition,2024,84190.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Sonata Hybrid,2024,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,Sedan,4.0,Front-wheel Drive
+RAM,3500,2023,71999.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,252.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,47080.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,54226.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,2.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,33255.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,45373.0,c,4.0,Electric,3.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wrangler,2024,48612.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,SUV,4.0,Four-wheel Drive
+BMW,X7,2025,90945.0,24V DOHC,6.0,Gasoline,4.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,37100.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,59205.0,16V GDI DOHC Hybrid,4.0,Hybrid,3.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Bronco Sport,2024,31390.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,13.0,Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Palisade,2024,46905.0,24V GDI DOHC,6.0,Gasoline,25.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,36499.0,16V PDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+BMW,i4 Gran Coupe,2024,79300.0,c,4.0,Electric,5.0,1-Speed Automatic,Hatchback,4.0,All-wheel Drive
+RAM,2500,2024,74990.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,15.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,55399.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,2.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Honda,CR-V Hybrid,2024,40355.0,16V GDI DOHC Hybrid,4.0,Hybrid,68.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2023,43000.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,16.0,8-speed automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Sonata Hybrid,2024,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,9.0,6-Speed Automatic,Sedan,4.0,Front-wheel Drive
+BMW,740,2024,103045.0,24V GDI DOHC Turbo,6.0,Gasoline,19.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Volkswagen,Taos,2024,28997.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Volkswagen,Taos,2024,29066.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,8-Speed Automatic with Tiptronic,SUV,4.0,Front-wheel Drive
+GMC,Terrain,2024,33092.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Palisade,2024,47100.0,24V GDI DOHC,6.0,Gasoline,26.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Taos,2024,32406.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,11.0,8-speed automatic,SUV,4.0,Front-wheel Drive
+Ford,Explorer,2024,40145.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,10-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Nissan,Kicks,2024,24600.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SUV,4.0,Front-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,69201.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Nissan,Versa,2024,17994.0,16V MPFI DOHC,4.0,Gasoline,8.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+Ford,Escape,2024,40630.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,49075.0,OHV,6.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Jetta,2024,23160.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,31.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Mustang Mach-E,2024,52180.0,c,4.0,Electric,25.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,59255.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Transit-250,2024,51803.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,1.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,67784.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,35.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Santa Cruz,2024,40449.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Chevrolet,Equinox,2024,30188.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,3.0,6-Speed Automatic Electronic with Overdrive,SUV,4.0,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,59420.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,Automatic,SUV,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,60080.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Buick,Envision,2023,42785.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Audi,Q8 e-tron,2024,84530.0,c,4.0,Electric,5.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47280.0,16V MPFI OHV,8.0,Gasoline,13.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,30525.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Honda,Passport,2024,44850.0,24V GDI SOHC,6.0,Gasoline,3.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Cadillac,LYRIQ,2024,83665.0,c Motor,4.0,Electric,728.0,Automatic,SUV,4.0,Rear-wheel Drive
+Nissan,Titan,2024,47105.0,Unleaded V-8 5.6 L/339,8.0,Gasoline,5.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Compass,2024,38736.0,DOHC,4.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,28265.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,58230.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,17.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,67190.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,45738.0,c,4.0,Electric,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Escape,2024,30278.0,der,3.0,Gasoline,0.0,8-Speed Shiftable Automatic,SUV,4.0,Front-wheel Drive
+Ford,Escape,2024,34572.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wrangler 4xe,2024,66960.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,31535.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Equinox,2024,30955.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,3.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,34698.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Escape,2024,32138.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Transit-250,2024,61248.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Ford,Mustang Mach-E,2024,46920.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,40925.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,76475.0,16V GDI OHV,8.0,Gasoline,2.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,49180.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Mustang Mach-E,2023,45525.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,65360.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,47650.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Honda,Odyssey,2024,41705.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,Passenger Van,4.0,Front-wheel Drive
+Hyundai,IONIQ 5,2024,54495.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Elantra HEV,2024,30335.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,Automatic,Sedan,4.0,Front-wheel Drive
+Hyundai,Tucson Hybrid,2024,33695.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Jetta,2024,29374.0,16V GDI DOHC Turbo,4.0,Gasoline,28.0,8-Speed Automatic,Sedan,4.0,Front-wheel Drive
+Jeep,Wrangler 4xe,2024,51350.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,35744.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wrangler 4xe,2023,63715.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Elantra HEV,2024,25975.0,16V GDI DOHC Hybrid,4.0,Hybrid,15.0,6-Speed DCT Automatic,Sedan,4.0,Front-wheel Drive
+Hyundai,IONIQ 6,2023,39997.0,c,4.0,Electric,27.0,1-Speed Automatic,Sedan,4.0,All-wheel Drive
+Toyota,Tundra Hybrid,2024,68256.0,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6.0,Hybrid,10.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,ProMaster 3500,2024,67749.0,24V MPFI DOHC,6.0,Gasoline,181.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Jeep,Grand Cherokee L,2024,49735.0,24V VVT,6.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,49885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,2.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Toyota,Corolla Cross,2024,30499.0,16V PDI DOHC,4.0,Gasoline,1.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Kia,EV6,2024,41991.0,c,4.0,Electric,14.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,Explorer,2024,40145.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,10-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Mazda,CX-90 PHEV,2024,54939.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,3.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer L,2024,83845.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2023,58665.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,0.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Dodge,Durango,2023,46835.0,16V MPFI OHV,8.0,Gasoline,23.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Equinox EV,2024,47495.0,"<dt>VIN</dt>
+     3GN7DNRPXRS232327",4.0,Gasoline,0.0,Automatic,SUV,4.0,Front-wheel Drive
+Jeep,Grand Wagoneer,2024,124250.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,65129.0,"diesel direct injection, DOHC, intercooled turbo, diesel,",4.0,Diesel,0.0,Automatic,Pickup Truck,3.0,Rear-wheel Drive
+Ford,Mustang Mach-E,2024,49785.0,c,4.0,Electric,5.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Honda,CR-V Hybrid,2025,42150.0,16V GDI DOHC Turbo,4.0,Gasoline,1.0,1-Speed CVT with Overdrive,SUV,4.0,All-wheel Drive
+Cadillac,XT5,2024,47225.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,5.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,31610.0,16V PDI DOHC,4.0,Gasoline,3.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Toyota,Tundra Hybrid,2024,72977.0,24V PDI DOHC Twin Turbo Hybrid,6.0,Hybrid,7.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Hornet,2024,36734.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,14.0,9-Speed 948TE Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,61330.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Pickup Truck,2.0,Four-wheel Drive
+Hyundai,Kona,2024,32009.0,16V MPFI DOHC,4.0,Gasoline,1.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,49229.0,16V GDI OHV,8.0,Gasoline,17.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+INFINITI,QX55,2023,54200.0,16V PDI DOHC Turbo,4.0,Gasoline,0.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Jeep,Compass,2023,25999.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,14.0,Automatic,SUV,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,56995.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,30.0,Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Equinox,2024,34472.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Nissan,Kicks,2024,25410.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Dodge,Hornet,2024,49885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Toyota,Corolla,2024,22623.0,16V PDI DOHC,4.0,Gasoline,8.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+Hyundai,IONIQ 5,2024,45830.0,c,4.0,Electric,0.0,Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Jetta,2024,29895.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,10.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+Hyundai,IONIQ 5,2024,44713.0,c,4.0,Electric,13.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,ProMaster 3500,2024,68095.0,24V MPFI DOHC,6.0,Gasoline,186.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Volkswagen,Jetta,2024,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+RAM,3500,2024,65260.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+GMC,Terrain,2024,40980.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Honda,CR-V Hybrid,2024,36900.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,37275.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,72294.0,24V DDI OHV Turbo Diesel,6.0,Diesel,33.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,51625.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Kona,2024,30829.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Dodge,Hornet,2024,44826.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,38122.0,16V GDI DOHC Turbo,4.0,Gasoline,18.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,47451.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,3.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,58840.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,4.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,32837.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,10.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,Bronco Sport,2024,31390.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,9.0,Automatic,SUV,4.0,Four-wheel Drive
+Chrysler,Pacifica,2024,54403.0,24V MPFI DOHC,6.0,Gasoline,14.0,9-Speed Automatic,Passenger Van,4.0,All-wheel Drive
+Toyota,Tundra Hybrid,2024,71146.0,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6.0,Hybrid,10.0,10-Speed Automatic,Pickup Truck,4.0,Rear-wheel Drive
+Jeep,Wagoneer,2024,84935.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Ford,F-150,2023,52495.0,EcoBoost,6.0,Gasoline,26.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,2500,2024,61481.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,15.0,6-Speed A/T,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,51700.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,42947.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,Pickup Truck,4.0,Rear-wheel Drive
+Dodge,Hornet,2024,34329.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,6.0,Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,62154.0,16V MPFI OHV,8.0,Gasoline,197.0,8-Speed Automatic,Pickup Truck,2.0,Four-wheel Drive
+Dodge,Charger,2023,35913.0,24V MPFI DOHC,6.0,Gasoline,15.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Audi,A3,2024,39375.0,16V GDI DOHC Turbo,4.0,Gasoline,76.0,7-Speed Automatic with Auto-Shift,Sedan,4.0,Front-wheel Drive
+Jeep,Wrangler 4xe,2024,65295.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wrangler 4xe,2024,64930.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Ford,Mustang Mach-E,2023,46540.0,c,4.0,Electric,6.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,3.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,47142.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,41955.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Ford,Escape,2024,36860.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,8.0,8-Speed A/T,SUV,4.0,All-wheel Drive
+RAM,3500,2024,76300.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,ProMaster 3500,2024,68095.0,24V MPFI DOHC,6.0,Gasoline,188.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Ford,F-150,2024,45605.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Nissan,Kicks,2024,24305.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SUV,4.0,Front-wheel Drive
+Ford,Explorer,2024,46870.0,16V GDI DOHC Turbo,4.0,Gasoline,2500.0,10-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Hyundai,Kona,2024,33840.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,50058.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Honda,CR-V Hybrid,2024,37505.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Hyundai,Sonata Hybrid,2024,33005.0,16V GDI DOHC Hybrid,4.0,Hybrid,13.0,6-Speed Automatic,Sedan,4.0,Front-wheel Drive
+Acura,MDX,2024,53700.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,Sprinter 3500,2024,62295.0,"diesel direct injection, DOHC, intercooled turbo, diesel,",4.0,Diesel,8.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+GMC,Sierra 2500,2024,90220.0,32V DDI OHV Turbo Diesel,8.0,Diesel,0.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Compass,2024,33696.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,54641.0,24V MPFI DOHC,6.0,Gasoline,23.0,8-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Cadillac,LYRIQ,2024,60115.0,c,4.0,Electric,1.0,1-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Hyundai,Tucson,2024,32750.0,16V PDI DOHC,4.0,Gasoline,3425.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Mazda,CX-90 PHEV,2024,50595.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Explorer,2025,53915.0,"<dt>VIN</dt>
+     1FMUK7HH1SGA05728",4.0,Gasoline,8.0,10-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Jeep,Wagoneer,2024,77473.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,14.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+INFINITI,QX50,2024,49404.0,ER,4.0,Gasoline,7.0,(CVT) CONT VAR.,SUV,4.0,Front-wheel Drive
+Hyundai,Elantra HEV,2024,30870.0,16V GDI DOHC Hybrid,4.0,Hybrid,9.0,Automatic,Sedan,4.0,Front-wheel Drive
+Buick,Enclave,2024,56872.0,24V GDI DOHC,6.0,Gasoline,0.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,34730.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Chrysler,Pacifica,2024,55183.0,24V MPFI DOHC,6.0,Gasoline,13.0,9-Speed Automatic,Passenger Van,4.0,All-wheel Drive
+Hyundai,Tucson,2024,32625.0,16V PDI DOHC,4.0,Gasoline,2077.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Nissan,Versa,2024,20849.0,16V MPFI DOHC,4.0,Gasoline,6.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+Audi,A5 Sportback,2024,52405.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,7-Speed Automatic with Auto-Shift,Hatchback,4.0,All-wheel Drive
+RAM,3500,2024,67159.0,24V DDI OHV Turbo Diesel,6.0,Diesel,21.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Edge,2024,40260.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,GLS 450,2024,95230.0,24V GDI DOHC Turbo,6.0,Gasoline,8.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35835.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,35775.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,72600.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,47410.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Kia,Niro,2024,30935.0,16V GDI DOHC Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,SUV,4.0,Front-wheel Drive
+Jeep,Compass,2024,27087.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,78895.0,"<dt>VIN</dt>
+     3C63R3HLXRG198198",6.0,Diesel,7.0,Aisin 6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Edge,2024,44710.0,16V GDI DOHC Turbo,4.0,Gasoline,48.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Nissan,Sentra,2024,21637.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,4.0,Automatic,Sedan,4.0,Front-wheel Drive
+Kia,Seltos,2024,28535.0,16V MPFI DOHC,4.0,Gasoline,15.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,50923.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,4.0,Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Versa,2024,21889.0,16V MPFI DOHC,4.0,Gasoline,6.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+Hyundai,Kona,2024,29182.0,16V MPFI DOHC,4.0,Gasoline,0.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Nissan,Kicks,2024,21123.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,6.0,CVT with Xtronic,SUV,4.0,Front-wheel Drive
+RAM,3500,2024,63518.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,24.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,3500,2024,79934.0,24V DDI OHV Turbo Diesel,6.0,Diesel,22.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,22.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47785.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Charger,2023,65075.0,16V MPFI OHV,8.0,Gasoline,18.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+Jeep,Grand Cherokee L,2024,46243.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,175.0,Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,42876.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,147.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+GMC,Sierra 3500,2024,102287.0,32V DDI OHV Turbo Diesel,8.0,Diesel,4.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,55020.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,40344.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Kona,2024,33491.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,40754.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,12.0,Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,EQS 450,2024,111245.0,c,4.0,Electric,10.0,8-Speed Automatic,Sedan,4.0,All-wheel Drive
+Jaguar,I-PACE,2024,77053.0,"d>
+
+    
+    <dt>VIN</dt>
+     SADHM2S12R1631756",4.0,Gasoline,8.0,Automatic,SUV,5.0,All-wheel Drive
+RAM,3500,2024,83640.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,46246.0,c,4.0,Electric,7.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Toyota,RAV4 Prime,2024,50209.0,16V PDI DOHC Hybrid,4.0,Hybrid,0.0,Automatic CVT,SUV,4.0,All-wheel Drive
+RAM,2500,2024,69720.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,88478.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,Kona,2024,35389.0,16V GDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,36600.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,12.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Wagoneer,2023,110150.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,650.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,67105.0,"ar 3.6L V-6 DOHC, VVT variable valve control, regular unl",6.0,Gasoline,3.0,Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,36600.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,10.0,Automatic,SUV,4.0,All-wheel Drive
+BMW,i4 Gran Coupe,2024,72435.0,c,4.0,Electric,5.0,1-Speed Automatic,Hatchback,4.0,All-wheel Drive
+Mazda,CX-90 PHEV,2024,50955.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,0.0,Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,40434.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Kia,Sportage,2024,30740.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,66902.0,"diesel direct injection, DOHC, intercooled turbo, diesel,",4.0,Diesel,10.0,Automatic,Cargo Van,3.0,Rear-wheel Drive
+Hyundai,IONIQ 5,2024,59255.0,c,4.0,Electric,10.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Cadillac,LYRIQ,2024,75090.0,c Motor,4.0,Electric,9.0,Automatic,SUV,4.0,Rear-wheel Drive
+Chevrolet,Silverado 1500,2024,54190.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+GMC,Sierra 2500,2024,47763.0,16V GDI OHV,8.0,Gasoline,0.0,10-Speed Automatic,Pickup Truck,2.0,Rear-wheel Drive
+RAM,3500,2024,68600.0,24V DDI OHV Turbo Diesel,6.0,Diesel,0.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,IONIQ 6,2023,53820.0,c ZEV 320hp,4.0,Electric,129.0,Automatic,Sedan,4.0,All-wheel Drive
+Mercedes-Benz,GLE 450,2024,74290.0,24V GDI DOHC Turbo,6.0,Gasoline,6.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,33668.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Durango,2023,47785.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,89595.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Ford,Mustang Mach-E,2024,55485.0,c,4.0,Electric,3.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,43524.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4.0,All-wheel Drive
+Ford,Escape,2024,33071.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,4.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,30490.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+RAM,ProMaster 3500,2023,61006.0,24V MPFI DOHC,6.0,Gasoline,5.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Hyundai,Santa Cruz,2024,43684.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Chrysler,Voyager,2024,38954.0,24V MPFI DOHC,6.0,Gasoline,8.0,9-Speed Automatic,Passenger Van,4.0,Front-wheel Drive
+GMC,Sierra 1500,2024,59466.0,16V GDI OHV,8.0,Gasoline,0.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Transit Connect,2023,38036.0,"gasoline direct injection, DOHC, iVCT variable valve cont",4.0,Gasoline,4.0,8-Speed Automatic,Cargo Van,4.0,Front-wheel Drive
+Toyota,Tundra Hybrid,2024,60573.0,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6.0,Hybrid,1.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,2500,2024,59620.0,16V MPFI OHV,8.0,Gasoline,0.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Compass,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,42295.0,c,4.0,Electric,0.0,Automatic,SUV,4.0,Rear-wheel Drive
+Jeep,Compass,2024,41230.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,9.0,Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Gladiator,2023,54210.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,IONIQ 5,2024,44565.0,c,4.0,Electric,7.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Kona,2024,29111.0,16V MPFI DOHC,4.0,Gasoline,11.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+GMC,Sierra 2500,2024,96860.0,32V DDI OHV Turbo Diesel,8.0,Diesel,0.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Kia,Sportage,2024,34635.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Ford,Maverick,2024,41045.0,16V GDI DOHC Turbo,4.0,Gasoline,4.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,79487.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,18.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Jetta,2024,23160.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,8-Speed Automatic with Tiptronic,Sedan,4.0,Front-wheel Drive
+Jeep,Wagoneer L,2024,74366.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,40979.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Edge,2024,39025.0,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,5.0,Automatic,SUV,4.0,All-wheel Drive
+Hyundai,IONIQ 5,2024,45269.0,c,4.0,Electric,4.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer L,2024,81160.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Versa,2024,21195.0,"4 DOHC, variable valve control, regular unleaded, engine",4.0,Gasoline,0.0,CVT,Sedan,4.0,Front-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,63440.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Kona,2024,33969.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Ford,Edge,2024,38598.0,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,10.0,Automatic,SUV,4.0,All-wheel Drive
+GMC,Sierra 1500,2024,84405.0,16V GDI OHV,8.0,Gasoline,12.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,52810.0,24V MPFI DOHC,6.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Silverado 1500,2024,63145.0,24V DDI DOHC Turbo Diesel,6.0,Diesel,5.0,10-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+GMC,Terrain,2024,34940.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,37498.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,12.0,Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,58950.0,24V DDI OHV Turbo Diesel,6.0,Diesel,12.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,32751.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,51.0,7-Speed DSG Automatic with Tiptronic,SUV,4.0,All-wheel Drive
+Dodge,Charger,2023,41890.0,24V MPFI DOHC,6.0,Gasoline,18.0,8-Speed Automatic,Sedan,4.0,All-wheel Drive
+Jeep,Compass,2024,38000.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,10.0,Automatic,SUV,4.0,Four-wheel Drive
+Ford,Transit-350,2023,57000.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5581.0,10-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+Jeep,Grand Cherokee L,2024,48201.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Audi,Q5 e,2024,73360.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,7-Speed Automatic S tronic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,33.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,64111.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Kia,Sorento,2024,33590.0,16V PDI DOHC,4.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+INFINITI,QX50,2024,46855.0,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4.0,Gasoline,11.0,Variable,SUV,4.0,Front-wheel Drive
+Jeep,Grand Cherokee L,2024,58779.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Subaru,Outback,2024,32490.0,16V GDI DOHC,4.0,Gasoline,8.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Ford,Edge,2024,45995.0,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,4723.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,73999.0,16V GDI DOHC Turbo,6.0,Gasoline,59.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Pathfinder,2024,42155.0,"6 gasoline direct injection, DOHC, variable valve control",6.0,Gasoline,6.0,Automatic,SUV,4.0,Four-wheel Drive
+Ford,Transit-350,2023,54525.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,0.0,10-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+Jeep,Grand Cherokee,2024,47030.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee,2024,42425.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,42436.0,16V GDI DOHC Turbo,4.0,Gasoline,18.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,56015.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,8.0,Automatic,SUV,4.0,Four-wheel Drive
+Acura,MDX,2024,52350.0,24V GDI SOHC,6.0,Gasoline,16.0,10-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,EV6,2024,41991.0,c,4.0,Electric,13.0,Automatic,SUV,4.0,All-wheel Drive
+Honda,HR-V,2024,25950.0,"gasoline direct injection, DOHC, i-VTEC variable valve co",4.0,Gasoline,14.0,Automatic,SUV,4.0,Front-wheel Drive
+Honda,Passport,2024,46350.0,24V GDI SOHC,6.0,Gasoline,0.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Honda,HR-V,2024,27450.0,"gasoline direct injection, DOHC, i-VTEC variable valve co",4.0,Gasoline,5.0,Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,33375.0,16V PDI DOHC,4.0,Gasoline,148.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,39935.0,16V PDI DOHC,4.0,Gasoline,12.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,35435.0,16V PDI DOHC,4.0,Gasoline,16.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,56119.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,20.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,36810.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,35585.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,0.0,Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Santa Cruz,2024,40375.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,Pickup Truck,4.0,All-wheel Drive
+Jeep,Compass,2024,35835.0,16V GDI DOHC Turbo,4.0,Gasoline,14.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,41720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,41720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,62255.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Audi,A5 Sportback,2024,57835.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,7-Speed Automatic with Auto-Shift,Hatchback,4.0,All-wheel Drive
+Jeep,Grand Wagoneer,2024,108537.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4501.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,63609.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Transit-250,2024,64025.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Cargo Van,3.0,All-wheel Drive
+RAM,3500,2024,86420.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+RAM,2500,2024,77525.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Dodge,Hornet,2024,36195.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,43475.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Kia,Sportage,2024,35040.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,64434.0,rbo Regular Unleaded I-6 3.0 L/183,6.0,Gasoline,20.0,Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,67422.0,24V DDI OHV Turbo Diesel,6.0,Diesel,27.0,6-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Cadillac,LYRIQ,2024,60310.0,c,4.0,Electric,4.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,61179.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2023,67650.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,555.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,61276.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+BMW,X7,2024,94895.0,24V GDI DOHC Turbo,6.0,Gasoline,1946.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Seltos,2024,31490.0,16V GDI DOHC Turbo,4.0,Gasoline,350.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Expedition,2024,70115.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Wagoneer L,2024,77522.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,78655.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Kicks,2024,24105.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Buick,Envista,2024,28000.0,12V GDI DOHC Turbo,3.0,Gasoline,5.0,6-Speed Automatic,SUV,4.0,Front-wheel Drive
+Kia,Sportage,2024,33390.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,60884.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,2.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,40880.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,24.0,Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,39555.0,16V GDI DOHC Turbo,4.0,Gasoline,1.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Bronco Sport,2024,35077.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,14.0,Automatic,SUV,4.0,Four-wheel Drive
+Cadillac,XT5,2024,47290.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,3.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee,2024,44759.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Chevrolet,Trax,2025,26190.0,der,6.0,Gasoline,1.0,Automatic,SUV,4.0,Front-wheel Drive
+Mercedes-Benz,GLA 250,2024,53710.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,8.0,8 Speed Dual Clutch,SUV,4.0,All-wheel Drive
+Ford,Expedition,2024,86490.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,84701.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+BMW,X7,2024,88695.0,24V GDI DOHC Turbo,6.0,Gasoline,9.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,33573.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,69017.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,Passenger Van,3.0,Rear-wheel Drive
+RAM,3500,2024,60925.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Cadillac,LYRIQ,2024,73110.0,c,4.0,Electric,19.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Telluride,2024,51965.0,"II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",6.0,Gasoline,8.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer L,2024,74366.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,63670.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,22.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Bronco Sport,2024,35010.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Mazda,CX-90,2024,49900.0,24V GDI DOHC Turbo,6.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Mercedes-Benz,GLE 450,2024,75925.0,24V GDI DOHC Turbo,6.0,Gasoline,7.0,9-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,93303.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,10.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58049.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49260.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,SUV,4.0,Four-wheel Drive
+Ford,Transit-150,2024,52640.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,6.0,10-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+Kia,Sportage,2024,38040.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49390.0,OHV,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Kona,2024,32491.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Mercedes-Benz,GLA 250,2024,51725.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic with Auto-Shift,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,58720.0,24V DDI DOHC Turbo Diesel,6.0,Diesel,0.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Genesis,Electrified GV70,2024,60490.0,c,4.0,Electric,11.0,1-Speed Automatic,SUV,4.0,All-wheel Drive
+BMW,i7,2024,195895.0,c,4.0,Electric,0.0,1-Speed Automatic,Sedan,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,37215.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,32995.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,14.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Mazda,CX-90,2024,54800.0,24V GDI DOHC Turbo,6.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,49285.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,15.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,49895.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4.0,All-wheel Drive
+Jeep,Compass,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,63440.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Honda,CR-V,2025,38305.0,"d>
+
+    
+    <dt>VIN</dt>
+     7FARS4H71SE000866",4.0,Gasoline,0.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Dodge,Durango,2024,57486.0,16V MPFI OHV,8.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,40085.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,16.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Volvo,S60 Recharge Plug-In Hybrid,2024,57545.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,3.0,8-Speed Automatic,Sedan,4.0,All-wheel Drive
+Ford,Transit-350,2024,74391.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,85.0,Automatic,Cargo Van,3.0,All-wheel Drive
+Kia,Sorento,2023,44876.0,"4 port/direct injection, DOHC, variable valve control, in",4.0,Gasoline,16.0,Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,64965.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,16.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Ford,Escape,2024,38481.0,16V MPFI DOHC Hybrid,4.0,Hybrid,10.0,Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,77085.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,16.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mazda,CX-90 PHEV,2024,58825.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Nissan,Kicks,2024,26335.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Dodge,Hornet,2024,49720.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 1500,2024,50565.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Pickup Truck,4.0,Four-wheel Drive
+Buick,Envista,2024,31805.0,12V GDI DOHC Turbo,3.0,Gasoline,8.0,6-Speed Automatic,SUV,4.0,Front-wheel Drive
+Chevrolet,Equinox,2024,38717.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Cadillac,XT6,2024,50415.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,9-Speed Automatic,SUV,4.0,Front-wheel Drive
+Ford,Transit-250,2024,50486.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,24.0,10-Speed Automatic with Overdrive,Cargo Van,3.0,Rear-wheel Drive
+Volkswagen,Taos,2024,32406.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,11.0,8-speed automatic,SUV,4.0,Front-wheel Drive
+Kia,Sportage,2024,40250.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47340.0,16V MPFI OHV,8.0,Gasoline,11.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Subaru,Impreza,2024,29068.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,Hatchback,4.0,All-wheel Drive
+Mazda,CX-70,2025,54620.0,o,6.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Chrysler,Voyager,2024,38954.0,24V MPFI DOHC,6.0,Gasoline,5.0,9-Speed Automatic,Passenger Van,4.0,Front-wheel Drive
+Jeep,Grand Cherokee,2024,49842.0,24V MPFI DOHC,6.0,Gasoline,8.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Murano,2024,46510.0,24V MPFI DOHC,6.0,Gasoline,6.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,40933.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+BMW,X3,2024,49395.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,5.0,8-Speed Automatic Sport,SUV,4.0,Rear-wheel Drive
+Jeep,Compass,2024,28265.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,2500,2024,53750.0,"4L V-8 VVT variable valve control, regular unleaded, engi",8.0,Gasoline,0.0,Automatic,Pickup Truck,2.0,Four-wheel Drive
+Subaru,Outback,2024,39822.0,16V GDI DOHC,4.0,Gasoline,8.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer L,2024,88135.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,21.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Ford,Escape,2024,30798.0,12V PDI DOHC Turbo,3.0,Gasoline,8.0,Automatic,SUV,4.0,Front-wheel Drive
+Volvo,C40 Recharge Pure Electric,2023,62240.0,c Motor,0.0,Electric,0.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Compass,2023,38300.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,24.0,Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,25311.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49201.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,29386.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer L,2023,72835.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Volkswagen,Taos,2024,28994.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,49895.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,36280.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,241.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Expedition,2024,80374.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,13.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,ProMaster 1500,2024,51380.0,24V MPFI DOHC,6.0,Gasoline,10.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Dodge,Hornet,2024,52180.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4.0,All-wheel Drive
+Volkswagen,Taos,2024,28998.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,SUV,4.0,All-wheel Drive
+Nissan,Kicks,2024,24979.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,5.0,CVT with Xtronic,SUV,4.0,Front-wheel Drive
+Ford,Transit-350,2024,52530.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,1.0,8-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+Hyundai,IONIQ 5,2024,38201.0,c,4.0,Electric,12.0,Automatic,SUV,4.0,Rear-wheel Drive
+RAM,ProMaster 2500,2023,50245.0,"6 DOHC, variable valve control, regular unleaded, engine",6.0,Gasoline,0.0,Automatic,Cargo Van,3.0,Front-wheel Drive
+Kia,EV6,2024,41528.0,c,4.0,Electric,13.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,49082.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,51.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Subaru,Impreza,2024,32098.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,Hatchback,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,53791.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,49139.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Ford,Expedition,2024,72135.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,7.0,10-Speed Automatic,SUV,4.0,Four-wheel Drive
+Honda,CR-V,2024,37965.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Kia,Soul,2024,21000.0,"DOHC, D-CVVT variable valve control, regular unleaded, en",4.0,Gasoline,5.0,Automatic,Hatchback,4.0,Front-wheel Drive
+Hyundai,Tucson Hybrid,2024,37335.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,1.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,33785.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Chrysler,300,2023,35994.0,24V MPFI DOHC,6.0,Gasoline,10.0,8-Speed Automatic,Sedan,4.0,Rear-wheel Drive
+GMC,Sierra 2500,2024,48268.0,16V GDI OHV,8.0,Gasoline,3.0,10-Speed Automatic,Pickup Truck,2.0,Rear-wheel Drive
+Dodge,Hornet,2024,45141.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Volkswagen,Taos,2024,28098.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,66.0,7-Speed DSG Automatic with Tiptronic,SUV,4.0,All-wheel Drive
+Nissan,Kicks,2024,24430.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Nissan,Kicks,2024,24430.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Nissan,Kicks,2024,25080.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SUV,4.0,Front-wheel Drive
+Mercedes-Benz,AMG C 43,2024,73960.0,16V PDI DOHC Turbo,4.0,Gasoline,5.0,9-Speed Automatic,Sedan,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,46659.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Dodge,Hornet,2024,43490.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,18.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Durango,2023,47280.0,16V MPFI OHV,8.0,Gasoline,22.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+RAM,3500,2024,80927.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,11.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Chevrolet,Equinox,2024,33977.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,35795.0,16V PDI DOHC,4.0,Gasoline,41.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Ford,Maverick,2024,36550.0,16V GDI DOHC Turbo,4.0,Gasoline,4.0,8-Speed Automatic,Pickup Truck,4.0,All-wheel Drive
+Hyundai,Tucson Hybrid,2024,37805.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,74625.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Kia,Sportage,2024,35400.0,16V PDI DOHC,4.0,Gasoline,141.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Dodge,Hornet,2024,43613.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee L,2024,49836.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,7.0,Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Kona,2024,27555.0,16V MPFI DOHC,4.0,Gasoline,0.0,Automatic CVT,SUV,4.0,All-wheel Drive
+Ford,Escape,2024,29305.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Ford,Edge,2024,40015.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,SUV,4.0,All-wheel Drive
+Kia,Sportage,2024,35195.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SUV,4.0,Front-wheel Drive
+Kia,EV6,2024,43439.0,c,4.0,Electric,14.0,Automatic,SUV,4.0,All-wheel Drive
+Ford,Bronco Sport,2024,35615.0,oBoost,3.0,Gasoline,0.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Kia,Forte,2024,21070.0,16V MPFI DOHC,4.0,Gasoline,8.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+Nissan,Versa,2024,20842.0,16V MPFI DOHC,4.0,Gasoline,4.0,Automatic CVT,Sedan,4.0,Front-wheel Drive
+Ford,Explorer,2024,43685.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,10-Speed Automatic,SUV,4.0,Rear-wheel Drive
+Jeep,Wagoneer L,2024,66770.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,ProMaster 1500,2024,48822.0,24V MPFI DOHC,6.0,Gasoline,12.0,9-Speed Automatic,Cargo Van,3.0,Front-wheel Drive
+Hyundai,Tucson Hybrid,2024,37220.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,67164.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,29.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,37309.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SUV,4.0,All-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,77314.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,6.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,70312.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,24.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Compass,2024,36331.0,16V GDI DOHC Turbo,4.0,Gasoline,17.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Jeep,Grand Cherokee 4xe,2024,62343.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+RAM,3500,2024,67446.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,296.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Hyundai,Tucson Hybrid,2024,40835.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,16.0,Automatic,SUV,4.0,All-wheel Drive
+Jeep,Gladiator,2024,54620.0,24V MPFI DOHC,6.0,Gasoline,5.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Jeep,Grand Cherokee L,2024,59674.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,8.0,Automatic,SUV,4.0,Four-wheel Drive
+RAM,2500,2024,69315.0,24V DDI OHV Turbo Diesel,6.0,Diesel,0.0,Automatic,Pickup Truck,4.0,Four-wheel Drive
+Mercedes-Benz,Sprinter 2500,2024,59037.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,Cargo Van,3.0,Rear-wheel Drive
+Dodge,Hornet,2024,49720.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,SUV,4.0,All-wheel Drive
+Jeep,Wagoneer,2024,69085.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,SUV,4.0,Four-wheel Drive
+Nissan,Murano,2024,43495.0,"6 DOHC, variable valve control, regular unleaded, engine",6.0,Gasoline,6.0,Automatic,SUV,4.0,All-wheel Drive
+Chevrolet,Silverado 2500,2024,48995.0,"8 gasoline direct injection, variable valve control, regu",8.0,Gasoline,31.0,Automatic,Pickup Truck,4.0,Rear-wheel Drive
